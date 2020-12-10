@@ -1,0 +1,2 @@
+这是一个安卓和ROS通讯的机器人仿真的ROS代码包
+解决了world_canvas安装不上的问题，降低了warehouse_ros的版本
