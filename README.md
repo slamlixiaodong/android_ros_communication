@@ -1,0 +1,2 @@
+这是一个ROS和安卓进行map_nav测试的仿真代码包
+主要解决了melodic和kinetic版本不能连接world_canvas，降低了warehouse_ros的版本进行源码编译
